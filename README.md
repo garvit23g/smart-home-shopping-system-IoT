@@ -1,4 +1,4 @@
-# smart-home-shopping-system-IoT
+# smart-shopping-system-IoT
 SMART SHOPPING SYSTEM USING LIGHTWEIGHT IoT PROTOCOL
 
 
